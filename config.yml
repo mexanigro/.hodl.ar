@@ -3,8 +3,8 @@
 
 version: 0.3.5 # NO TOCAR
 
-# HODL username
-# username: "USUARIO" # < TU_USUARIO@hodl.ar
+ HODL username
+ username: "Liamarzac"  < Liamarzac@hodl.ar
 
 # NOSTR Settings
 # nostr: # Sin el # adelante
@@ -22,7 +22,7 @@ theme:
 
 # Configuración Central
 main:
-  title: Mi Nombre # Aca podes poner tu nombre o el de tu producto
+  title: Liamarzac # Aca podes poner tu nombre o el de tu producto
 
 # Lista de bloques
 blocks:
